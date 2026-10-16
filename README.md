@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**AshVenn/AshVenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Youness Zouhairi
 
-Here are some ideas to get you started:
+**Machine Learning & Software Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI master's student and full-stack developer interested in machine learning systems, MLOps, and building reliable software.
+
+Currently exploring the intersection of **ML engineering, data, and software development**.
+
+---
+
+### Technologies
+
+**Languages**  
+Python · TypeScript · JavaScript · SQL
+
+**Machine Learning & Data**  
+PyTorch · Scikit-learn · Pandas · NumPy
+
+**Backend & Web**  
+FastAPI · Next.js · React · Node.js
+
+**MLOps & Infrastructure**  
+Docker · MLflow · Dagster · dbt · PostgreSQL
+
+---
+
+### Selected Work
+
+**MLOps Pipeline**  
+End-to-end ML workflow covering data ingestion, transformation, model training, experiment tracking, and API serving.
+
+**GymWatch**  
+Full-stack application development.
+
+Explore more on my [portfolio](https://younesszouhairi.vercel.app/projects).
+
+---
+
+### Connect
+
+[Portfolio](https://younesszouhairi.vercel.app) · [GitHub](https://github.com/AshVenn)
+  
